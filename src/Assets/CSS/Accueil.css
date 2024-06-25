@@ -68,10 +68,17 @@
 
 /*_________________________________*/
 
-@media screen and (max-width: 915px) {
-  .bg-info
+@media screen and (min-width: 321px) and (max-width: 915px) {
+  .bg-info1
   {
-    height: 23em;
+    height: 33em;
+  }
   }
 
-  }
+  @media screen  and (max-width: 480px) {
+    .bg-info1
+    {
+      height: 33em;
+    }
+    }
+  

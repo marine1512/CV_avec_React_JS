@@ -57,3 +57,10 @@
   color: #1e1e1e !important;
   text-decoration: none;
 }
+
+@media screen and (max-width: 480px) {
+  .mainRoute4
+  {
+    flex-direction: column;
+  }
+  }
