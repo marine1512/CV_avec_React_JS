@@ -1,4 +1,4 @@
-# Optimiser_votre_CV_en_ligneavec_React_JS
+# Optimiser_votre_CV_en_ligne_avec_React_JS
 
 Objectifs :
 Grâce à ce devoir, vous serez capable de :
