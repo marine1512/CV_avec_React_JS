@@ -23,6 +23,7 @@
 .scroll-top{
   font-size: 3em;
   position: fixed;
+  z-index: 1;
   bottom: 1em;
   right: 0.2em;
 }
