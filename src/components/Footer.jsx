@@ -44,7 +44,7 @@ const Footer =()=>{
                 </div>
             </div>
                 <div className='scroll-top'>
-                    <a href="#slider"><i className="fa-solid fa-circle-up"></i></a>
+                    <a href="#mainNav"><i className="fa-solid fa-circle-up"></i></a>
                 </div>
     </> 
     )
