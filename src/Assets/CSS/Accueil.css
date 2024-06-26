@@ -73,12 +73,19 @@
   {
     height: 33em;
   }
+  .row>*{
+    margin-bottom: 2em;
+  }
   }
 
   @media screen  and (max-width: 480px) {
     .bg-info1
     {
       height: 33em;
+    }
+
+    .row>*{
+      margin-bottom: 2em;
     }
     }
   

@@ -16,6 +16,7 @@
     flex-wrap: wrap;
     justify-content: center;
     gap: 2em;
+    margin: 1em 0 1em 0;
   }
 
   .mainRoute2>#col2{
