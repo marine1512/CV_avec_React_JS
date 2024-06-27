@@ -29,7 +29,7 @@ const Service =()=>{
                 </div>
                 <div className="card">
                     <div className="card-body">
-                    <i className="fa-solid fa-file-code" onMouseOver={() => setColor(blue)} onMouseOut={() => setColor(black)} style={color}></i>
+                    <i className="fa-solid fa-file-code" onMouseOver={() => setColor(paleBluelue)} onMouseOut={() => setColor(blue)} style={color}></i>
                         <h4 className="card-title">DEVELOPPEMENT WEB</h4>
                         <p className="card-text">Le développement de site web repose sur</p>
                         <p className="card-text">l'utilisation des langages HTML, CSS,</p>
